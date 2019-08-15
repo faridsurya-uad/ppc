@@ -1,5 +1,10 @@
 # PROGRESSIVE PIE CHART
 Progressive Pie Chart (PPC) for data presentation with progression
+
+!['ppc preview'](https://github.com/faridsurya-uad/ppc/blob/master/assets/localhost_5000_.png?raw=true "Title")
+
+
+
 ## INSTALLATION
 Include the **ppc.js** file to your project. Create element with id attribute. For example: ```<div id="container"></div>```. Create javascript code to pass the data:
 
