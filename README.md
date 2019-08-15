@@ -1,4 +1,7 @@
 # PROGRESSIVE PIE CHART
+
+**V-0.0.1**
+
 Progressive Pie Chart (PPC) for data presentation with progression
 
 !['ppc preview'](https://github.com/faridsurya-uad/ppc/blob/master/assets/localhost_5000_.png?raw=true "Title")
